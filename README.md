@@ -20,7 +20,4 @@ Model data yang digunakan dalam project kali ini adalah model CNN biasa yang ter
 ![image](https://user-images.githubusercontent.com/92361807/147632286-fe9bbcfc-ad09-44cc-a992-a86a9fae64d6.png)
 
 ## Overview Dataset
-Jumlah dan persentase splitting dataset :
-train (persentase, jumlah data train) 80%
-validation (persentase, jumlah data validation) 10%
-test (persentase, jumlah data test) 10%
+Jumlah persentase dalam proses splitting dataset kali ini adalah train data 80%, validation data 10%, dan test data 10%
