@@ -17,7 +17,7 @@ Pre processing yang digunakan dalam project ini yaitu ekstrak file, split data, 
 ### Modeling
 Model data yang digunakan dalam project kali ini adalah model CNN biasa yang terdapat 4 layer
 
-
+![image](https://user-images.githubusercontent.com/92361807/147632286-fe9bbcfc-ad09-44cc-a992-a86a9fae64d6.png)
 
 ## Overview Dataset
 Jumlah dan persentase splitting dataset :
