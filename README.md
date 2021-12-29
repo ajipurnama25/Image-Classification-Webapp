@@ -15,7 +15,7 @@ Kontributor dalam pengerjaan project ini adalah
 Pre processing yang digunakan dalam project ini yaitu ekstrak file, split data, dan data augmentasi menggunakan image data generator
 
 ### Modeling
-Model data yang digunakan dalam project kali ini adalah model CNN biasa yang terdapat 4 layer
+Model data yang digunakan dalam project kali ini adalah model CNN biasa yang terdapat 4 layer dengan hasil akurasi 100%, sedangkan hasil akurasi di jurnal referensi sebesar 95.67%
 
 ![image](https://user-images.githubusercontent.com/92361807/147632286-fe9bbcfc-ad09-44cc-a992-a86a9fae64d6.png)
 
