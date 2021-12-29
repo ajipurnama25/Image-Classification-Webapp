@@ -12,7 +12,7 @@ Kontributor dalam pengerjaan project ini adalah
 2. Auliya Tara SL [auliyatara11@gmail.com](http://www.gmail.com)
 
 ### Pre-Processing
-Pre processing yang digunakan dalam project ini yaitu ekstrak file, split data, dan data augmentasi menggunakan image generator
+Pre processing yang digunakan dalam project ini yaitu ekstrak file, split data, dan data augmentasi menggunakan image data generator
 
 ### Modeling
 Model data yang digunakan dalam project kali ini adalah model CNN biasa yang terdapat 4 layer
