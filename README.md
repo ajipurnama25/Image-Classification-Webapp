@@ -15,15 +15,9 @@ Kontributor dalam pengerjaan project ini adalah
 Pre processing yang digunakan dalam project ini yaitu ekstrak file, split data, dan data augmentasi menggunakan image generator
 
 ### Modeling
-Model data yang digunakan dalam project kali ini terdapat 4 model, yakni VGG19, VGG16, ResNet-50, dan InceptionResnetV2
+Model data yang digunakan dalam project kali ini adalah model CNN biasa yang terdapat 4 layer
 
-![image](https://user-images.githubusercontent.com/92361807/147631690-cf1062ae-2f6f-4009-83e7-8718c2ee78e1.png)
 
-![image](https://user-images.githubusercontent.com/92361807/147631742-5f7c5c6d-9e2b-4c73-8997-7d2afe4287af.png)
-
-![image](https://user-images.githubusercontent.com/92361807/147631788-65430cce-4cf5-4a3f-8a9b-baacc9ba096e.png)
-
-![image](https://user-images.githubusercontent.com/92361807/147631823-d6e2348a-d313-45b2-98b1-eb93c706f143.png)
 
 ## Overview Dataset
 Jumlah dan persentase splitting dataset :
